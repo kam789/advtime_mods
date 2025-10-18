@@ -223,3 +223,6 @@
 [submodule "teleport-request"]
 	path = teleport-request
 	url = https://github.com/minetest-mods/teleport-request
+[submodule "techage_modpack"]
+	path = techage_modpack
+	url = https://github.com/joe7575/techage_modpack.git
