@@ -226,3 +226,9 @@
 [submodule "techage_modpack"]
 	path = techage_modpack
 	url = https://github.com/joe7575/techage_modpack.git
+[submodule "anvil"]
+	path = anvil
+	url = https://github.com/minetest-mods/anvil.git
+[submodule "ta_apiary"]
+	path = ta_apiary
+	url = https://gitlab.com/lesya_minetest_mods/ta_apiary

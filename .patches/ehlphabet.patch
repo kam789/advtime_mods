@@ -1,0 +1,13 @@
+diff --git a/init.lua b/init.lua
+index d76f57a..8b6e3f1 100644
+--- a/init.lua
++++ b/init.lua
+@@ -8,7 +8,7 @@ ehlphabet.has_unified_inventory = core.get_modpath("unified_inventory")
+ 			and core.global_exists("unified_inventory") and true or false
+ 
+ -- Register crafting recipes.
+-dofile(ehlphabet.path .. "/crafts.lua")
++-- dofile(ehlphabet.path .. "/crafts.lua")
+ 
+ 
+ -- Helper function to append table to table.
