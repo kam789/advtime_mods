@@ -13,9 +13,6 @@
 [submodule "unified_inventory"]
 	path = unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory.git
-[submodule "beowulf"]
-	path = beowulf
-	url = https://github.com/mt-mods/beowulf.git
 [submodule "areas"]
 	path = areas
 	url = https://github.com/minetest-mods/areas.git
